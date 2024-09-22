@@ -10,4 +10,6 @@
 - Best theme backround
 - Best proxy alive
 - Most useful Methods and Cheats
-- Widgetbot 
+- Widgetbot
+
+PASS: PROXYFORGAMES 
