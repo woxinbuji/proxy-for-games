@@ -12,4 +12,4 @@
 - Most useful Methods and Cheats
 - Widgetbot
 
-PASS: PROXYFORGAMES 
+PASS: proxy-github
